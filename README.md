@@ -36,4 +36,4 @@ It demonstrates end-to-end analyst work: **cleaning messy transactions**, defini
 1. Keep `online_retail_II.csv` in the project root (same level as this README), or update the path in the notebook.
 2. Run `notebooks/01_retail_revelations_cohort_retention.ipynb`
 
-Generated: 2026-01-15
+Tableau Public: https://public.tableau.com/views/P2_17685011861060/P2CohortHeatmap?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
