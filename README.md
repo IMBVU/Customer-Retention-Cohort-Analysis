@@ -1,8 +1,5 @@
 # Retail Revelations: Decoding Online Sales Trends — Customer Retention & Cohort Analysis (Project 2)
 
-This project is a recruiter-friendly retention analysis using a retail transaction dataset (invoices, products, customers, countries).
-It demonstrates end-to-end analyst work: **cleaning messy transactions**, defining KPIs, building **cohort retention**, and producing BI-ready outputs.
-
 ## Business Questions
 1. How are **revenue, orders, and active customers** trending month-to-month?
 2. What share of customers become **repeat buyers**?
